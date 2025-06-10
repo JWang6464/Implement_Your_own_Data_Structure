@@ -1,6 +1,6 @@
 # Implement Your Own Data Structure
 
-This project is a simple interactive **Inventory Manager** built using Python. It leverages core data structures—**dictionaries**, **tuples**, and **lists**—to manage items in an inventory with features like adding, removing, updating, displaying items, and calculating total value.
+This project is a simple interactive **Inventory Manager** built using Python. It leverages core data structures like **dictionaries**, **tuples**, and **lists** to manage items in an inventory with features like adding, removing, updating, displaying items, and calculating total value.
 
 ## Features
 
